@@ -1,0 +1,14 @@
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\bin\Debug\net8.0\Lab Assignment 1.exe
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.AssemblyInfoInputs.cache
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.AssemblyInfo.cs
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.csproj.CoreCompileInputs.cache
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.dll
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\refint\Lab Assignment 1.dll
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.pdb
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\bin\Debug\net8.0\Lab Assignment 1.deps.json
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\bin\Debug\net8.0\Lab Assignment 1.runtimeconfig.json
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\bin\Debug\net8.0\Lab Assignment 1.dll
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\bin\Debug\net8.0\Lab Assignment 1.pdb
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\Lab Assignment 1.genruntimeconfig.cache
+E:\ED\Journey\Dotnet\C# D01\LearnItCSD01\Lab Assignment 1\obj\Debug\net8.0\ref\Lab Assignment 1.dll
