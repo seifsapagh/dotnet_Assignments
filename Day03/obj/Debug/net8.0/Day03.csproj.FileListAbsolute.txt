@@ -1,0 +1,15 @@
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\bin\Debug\net8.0\Day03.exe
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\bin\Debug\net8.0\Day03.deps.json
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\bin\Debug\net8.0\Day03.runtimeconfig.json
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\bin\Debug\net8.0\Day03.dll
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\bin\Debug\net8.0\Day03.pdb
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.GeneratedMSBuildEditorConfig.editorconfig
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.AssemblyInfoInputs.cache
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.AssemblyInfo.cs
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.csproj.CoreCompileInputs.cache
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.sourcelink.json
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.dll
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\refint\Day03.dll
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.pdb
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\Day03.genruntimeconfig.cache
+E:\ED\Journey\Dotnet\Lab Assignments\Day03\obj\Debug\net8.0\ref\Day03.dll
