@@ -5,17 +5,17 @@ namespace Day05
     {
         public static void Main()
         {
-            GeoShape shape1 = new(5, 9); // Early Binding
+            GeoShape shape1 = new(5, 9); 
             Console.WriteLine();
-            GeoShape shape2 = new Square(5, 9); // Late Binding
+            GeoShape shape2 = new Square(5, 9); 
             Console.WriteLine();
-            GeoShape shape3 = new Triangle(5, 9); // Late Binding
+            GeoShape shape3 = new Triangle(5, 9); 
             Console.WriteLine();
-            Circle shape4 = new Circle(5); // Early Binding
+            Circle shape4 = new Circle(5); 
 
 
 
-           // Animal anima = new("Animal"); // Can't Do Early Binding because base is an abstract class
+           // Animal anima = new("Animal"); // Can  
             Console.WriteLine(); 
             Animal cat = new Cat("Tiddy"); // Late Binding
             Console.WriteLine();
