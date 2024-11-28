@@ -1,0 +1,15 @@
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.GeneratedMSBuildEditorConfig.editorconfig
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.AssemblyInfoInputs.cache
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.AssemblyInfo.cs
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.csproj.CoreCompileInputs.cache
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.sourcelink.json
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\bin\Debug\net8.0\Day08.exe
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\bin\Debug\net8.0\Day08.deps.json
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\bin\Debug\net8.0\Day08.runtimeconfig.json
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\bin\Debug\net8.0\Day08.dll
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\bin\Debug\net8.0\Day08.pdb
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.dll
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\refint\Day08.dll
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.pdb
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\Day08.genruntimeconfig.cache
+E:\ED\Journey\Dotnet\Lab Assignments\Day08\obj\Debug\net8.0\ref\Day08.dll
